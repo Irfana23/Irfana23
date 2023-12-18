@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Corporate sustainability, ESG, Climate Change and Environmental Remediation.**
 
-- 📫 How to reach me **irfanaasif2000@gmail.com**
+- 📫 How to reach me at **irfanaasif2000@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/irfana-asif](www.linkedin.com/in/irfana-asif)
+- 📄 Know about my experiences at [www.linkedin.com/in/irfana-asif](www.linkedin.com/in/irfana-asif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
