@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irfana Mohamed Asif</h1>
 <h3 align="center">A passionate Sustainability Analsyt from Austin</h3>
 
-- 🌱 I’m currently learning **Python, SQl and Tableau.**
+- 🌱 I’m currently learning **Python, mySQl and Tableau.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Irfana23](https://github.com/Irfana23)
 
